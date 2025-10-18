@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir-hossen75&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-hossen75" /> </p>
 
-- 🌱 I’m currently learning **Object-Oriented Programming in Python**
+- 🌱 I’m currently learning 
 
 - 📫 How to reach me **sabbirhossenn75@gmail.com**
 
